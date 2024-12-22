@@ -271,12 +271,12 @@ par.innerHTML = "TS&apos;JS";
 
 // 2. Create a button on the page, and use JavaScript to add an event listener that changes the text content of a paragraph when the button is clicked.
 
-let button = document.getElementById('myButton');
-let div = document.getElementById('js');
+// let button = document.getElementById('myButton');
+// let div = document.getElementById('js');
 
-button.addEventListener('click', () =>{
-    div.textContent = 'Introduction to JS!';
-})
+// button.addEventListener('click', () =>{
+//     div.textContent = 'Introduction to JS!';
+// })
 
 // 3. Create a webpage with a heading <h1> and a paragraph <p>. Write a script that changes the text of the paragraph when a button is clicked.
 
